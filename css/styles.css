@@ -1,0 +1,22 @@
+.btn-container {
+  margin: 0 auto;
+  padding: 100px;
+  width: 600px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+}
+
+.button {
+  background-color: #000000;
+  color: #ffffff;
+  width: 150px;
+  height: 80px;
+  border: 0;
+  border-radius: 40px;
+  font-size: xx-large;
+  font-weight: 600;
+  cursor: pointer;
+}
